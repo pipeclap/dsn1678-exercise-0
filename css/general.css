@@ -1,7 +1,12 @@
+html{
+	font-family: helvetica;
+
+}
 h1{
-	color: red;
+	font: helvetica;
+	color: #A22544;
 }
 
 header{
-	background-color: red;
+	background-color: ;
 }
