@@ -6,7 +6,8 @@ html{
 body{
 	margin: 10%;
 	background-color: white;
-
+	border-radius: 10px;
+	border-color: red;
 }
 
 p{
@@ -21,11 +22,12 @@ figurecaption{
 
 blockquote{
 	font-family: serif;
-	background-color: #F9F9F9;
+	background-color: #E9E9E9;
 }
 
 h1{
-	margin: 1em;
+	padding-top: 3%;
+	margin: 0.6em;
 	font-size: 1.2em;
 	font-family: sans-serif;
 	color: #A22544;
@@ -41,6 +43,7 @@ header{
 }
 
 img{
+	padding-left: none;
 	width: 100%;
 
 }
