@@ -48,6 +48,14 @@ dt{
 }
 
 ul{
+	margin-left: 3%;
+	display: inline-block;
+	font-size: 0.9em;
+	padding: 0.40rem 0.5em;
+	background-color: #E7CAD1;
+	border-radius: 50px;
+	color: #A22555;
+	border: 6;
 }
 
 header{
