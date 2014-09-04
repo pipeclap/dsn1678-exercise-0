@@ -10,6 +10,10 @@ body{
 	border-color: red;
 }
 
+data{
+	margin:35;
+}
+
 p{
 	margin-left: 5%;
 	margin-right: 5%;
