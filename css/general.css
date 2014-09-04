@@ -7,7 +7,6 @@ body{
 	margin: 10%;
 	background-color: white;
 	border-radius: 10px;
-	border-color: red;
 }
 
 p{
@@ -22,7 +21,7 @@ figurecaption{
 
 blockquote{
 	font-family: serif;
-	background-color: #E9E9E9;
+
 }
 
 h1{
@@ -64,5 +63,20 @@ header{
 img{
 	padding-left: none;
 	width: 100%;
-
 }
+
+div{
+	background-color: #E9E9E9;
+	margin: 0;
+}
+
+hr{
+	margin: 0;
+}
+
+aside{
+	padding: 5%;
+}
+
+
+
