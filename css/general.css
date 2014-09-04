@@ -1,12 +1,46 @@
 html{
-	font-family: helvetica;
+	font-family: sans-serif;
+	background: #E9E9E9;
+}
+
+body{
+	margin: 10%;
+	background-color: white;
 
 }
+
+p{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+figurecaption{
+	font-size: 0.7em;
+	color: #666666;
+}
+
+blockquote{
+	font-family: serif;
+	background-color: #F9F9F9;
+}
+
 h1{
-	font: helvetica;
+	margin: 1em;
+	font-size: 1.2em;
+	font-family: sans-serif;
 	color: #A22544;
 }
 
+h2{
+	font-size: 1.2em;
+	color: #A22544;
+	margin-left: 5%;
+}
+
 header{
-	background-color: ;
+}
+
+img{
+	width: 100%;
+
 }
