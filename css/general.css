@@ -10,10 +10,6 @@ body{
 	border-color: red;
 }
 
-data{
-	margin:35;
-}
-
 p{
 	margin-left: 5%;
 	margin-right: 5%;
@@ -41,6 +37,17 @@ h2{
 	font-size: 1.2em;
 	color: #A22544;
 	margin-left: 5%;
+}
+
+data{
+	margin:35%;
+}
+
+dt{
+	margin-left: 5%;
+}
+
+ul{
 }
 
 header{
